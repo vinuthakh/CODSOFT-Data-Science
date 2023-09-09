@@ -1,13 +1,12 @@
 CODSOFT
 
-internship on data science
+Internship on Data Science
 
 This is a task submission repository,
-
 which contains organised folders of each tasks 
 
 
-project description: 
+Project description: 
 
 task 1 : titanic survival prediction
 
